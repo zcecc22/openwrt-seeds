@@ -43,6 +43,7 @@ CONFIG_PACKAGE_odhcpd=y
 CONFIG_PACKAGE_openssh-client-utils=y
 CONFIG_PACKAGE_openssh-client=y
 CONFIG_PACKAGE_openssh-keygen=y
+CONFIG_PACKAGE_openssh-server=y
 CONFIG_PACKAGE_openssh-sftp-avahi-service=y
 CONFIG_PACKAGE_openssh-sftp-server=y
 CONFIG_PACKAGE_openvpn-openssl=y
@@ -50,7 +51,6 @@ CONFIG_PACKAGE_parted=y
 CONFIG_PACKAGE_rsync=y
 CONFIG_PACKAGE_shadow-utils=y
 CONFIG_PACKAGE_swap-utils=y
-CONFIG_PACKAGE_tmux=y
 # CONFIG_PACKAGE_wpad-basic-mbedtls is not set
 CONFIG_PACKAGE_wpad-openssl=y
 CONFIG_RSYNC_lz4=y
