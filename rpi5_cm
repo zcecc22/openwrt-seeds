@@ -52,6 +52,7 @@ CONFIG_DROPBEAR_ZLIB=y
 CONFIG_GOLANG_EXTERNAL_BOOTSTRAP_ROOT="/usr/lib/go"
 CONFIG_PACKAGE_acme-acmesh-dnsapi=y
 CONFIG_PACKAGE_block-mount=y
+CONFIG_PACKAGE_curl=y
 # CONFIG_PACKAGE_dnsmasq is not set
 CONFIG_PACKAGE_docker-compose=y
 CONFIG_PACKAGE_dockerd=y
